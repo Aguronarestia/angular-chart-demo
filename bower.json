@@ -1,0 +1,26 @@
+{
+  "name": "angular-chart-demo",
+  "version": "1.0.0",
+  "description": "angular-chart",
+  "main": "index.html",
+  "keywords": [
+    "angular-chart"
+  ],
+  "authors": [
+    "oneseral"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "Chart.js": "1.0.2",
+    "angular-chart.js": "~0.7.1"
+  }
+}
